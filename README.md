@@ -4,7 +4,7 @@ This project is a machine learning approach to predict wine scores (`points`) ba
 
 ## Dataset
 
-The dataset used is the [Wine Reviews Dataset](https://www.kaggle.com/datasets/zynicide/wine-reviews), which contains over 130,000 wine reviews with the following relevant columns:
+The dataset used is the [Wine Reviews Dataset](https://github.com/korrakiran/wine_review/blob/main/wine_preprocessed.csv), which contains over 130,000 wine reviews with the following relevant columns:
 
 - `country`, `province`, `region_1`, `region_2` (categorical)
 - `variety`, `winery` (categorical)
