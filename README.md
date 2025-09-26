@@ -54,7 +54,7 @@ Random Forest performed the best overall, achieving the lowest error and explain
 
 ## How to Run
 
-1. Clone the repository.  
+1. [Clone the repository](https://github.com/korrakiran/wine_review)
 2. Install the required libraries:  
 
 ```bash
